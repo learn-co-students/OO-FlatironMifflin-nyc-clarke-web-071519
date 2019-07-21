@@ -3,8 +3,8 @@ require_relative "lib/Employee"
 require 'pry'
 
 
-#Test your code here
+Employee3 = Employee.new("Alyssa" , 67000 , "Ricky") 
 
 
 binding.pry
-puts "done"
+
